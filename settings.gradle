@@ -1,0 +1,3 @@
+include ':admobVida'
+include ':app'
+rootProject.name = "AdVidA"
